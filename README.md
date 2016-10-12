@@ -1,2 +1,2 @@
 # probne
-proba dzialanie na plikach
+proba dzialania na plikach
